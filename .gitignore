@@ -1,0 +1,17 @@
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# LaTeX building
+*.aux
+*.log
+*.fdb_latexmk
+*.fls
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
